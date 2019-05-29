@@ -1,0 +1,11 @@
+{
+  "name": "twillio-poc",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "twilio": "^3.31.0"
+  }
+}
